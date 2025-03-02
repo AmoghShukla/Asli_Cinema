@@ -56,9 +56,6 @@ Asli Cinema is a modern and interactive movie streaming platform that provides u
    http://127.0.0.1:8000/
    ```
 
-## 📸 Screenshots
-(Include relevant screenshots showcasing the UI and features)
-
 ## 📜 License
 This project is licensed under the MIT License.
 
@@ -66,4 +63,4 @@ This project is licensed under the MIT License.
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ## 📧 Contact
-For any queries, reach out via [your email or social links].
+For any queries, reach out via Linkedin : AmoghShukla or Gmail : amoghshukla548@gmail.com.
